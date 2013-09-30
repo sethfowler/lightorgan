@@ -16,7 +16,7 @@ Install the [Arduino SDK][sdk] and [ino][ino], then:
 Resources
 ---------
 
-There's info about reading MIDI data over USB with the Arduino acting as the host in a few places around the web.
+There's info about reading MIDI data over USB with the Arduino acting as the host in a few places around the web:
 
 - [Circuits@Home][cah]
 - [Collin's Lab][collin]
