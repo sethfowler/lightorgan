@@ -1,0 +1,6 @@
+[submodule "lib/LPD8806"]
+	path = lib/LPD8806
+	url = https://github.com/adafruit/LPD8806.git
+[submodule "lib/midi"]
+	path = lib/midi
+	url = https://github.com/FortySevenEffects/arduino_midi_library.git
