@@ -8,7 +8,13 @@ At the moment this is just a test sketch. More will come soon.
 Usage
 -----
 
-Install the [Arduino SDK][sdk] and [ino][ino], then:
+Install:
+
+1. [Arduino SDK][sdk] 
+2. [Adafruit LPD8806 library][LPD8806]. See [The Arduino Library Installation Guide][libraryinst].
+3. [ino][ino]
+
+Then:
 
 1. `ino build`
 2. `ino upload`
@@ -26,6 +32,8 @@ There's info about reading MIDI data over USB with the Arduino acting as the hos
   using [HIDUINO][hiduino]
 
 [sdk]: http://arduino.cc/en/main/software
+[LPD8806]: https://github.com/adafruit/LPD8806
+[libraryinst]: http://arduino.cc/en/Guide/Libraries
 [ino]: http://inotool.org
 [cah]: http://www.circuitsathome.com/mcu/interfacing-midi-devices-with-arduino-using-usb-host-shield
 [collin]: http://makezine.com/2010/11/30/usbhacking/
